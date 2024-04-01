@@ -1,16 +1,18 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=120&section=header"/>
 
-<!--
-**Jaiir0/Jaiir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jaiir0&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Status do Github de Jairo Bezerra" /> 
 
-Here are some ideas to get you started:
+### Tecnologia que Estudo no Momento
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ -🏫 Cursando Redes de Computadores no IFRN Natal- 1º Período
+ 
+ -🧠 Aprendendo Programação
+
+<div> 
+  <br/> 
+  <a href = "mailto:jairoaraujobezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
