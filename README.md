@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8BF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jaiir0&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=008B8B&text_color=c9d1d9&bg_color=0d1117" alt="Status do Github de Jairo Bezerra" /> 
@@ -26,13 +26,47 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 Projetos Destacados
-- [Nonce_Validation](https://github.com/Jaiir0/Nonce_validation): Validação de Nonce feita de forma colaborativa via Telegram e terminal.
-
 ### 🎯 Metas para 2025
 - Aprofundar conhecimentos em redes de computadores e segurança da informação.
 - Desenvolver mais projetos práticos com Python, Shell Script e Docker.
 - Aprender o máximo possível sobre Linux.
+
+---
+
+<h2 align="center">👨‍💻 Repositórios em Destaque 👨‍💻</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Jaiir0/Fotolocalizador">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaiir0&repo=Fotolocalizador&title_color=008B8B&text_color=c9d1d9&icon_color=008B8B&bg_color=0d1117&border_color=008B8B&border_radius=10">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jaiir0/ASA-Proj.Final">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaiir0&repo=ASA-Proj.Final&title_color=008B8B&text_color=c9d1d9&icon_color=008B8B&bg_color=0d1117&border_color=008B8B&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Jaiir0/Python">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaiir0&repo=Python&title_color=008B8B&text_color=c9d1d9&icon_color=008B8B&bg_color=0d1117&border_color=008B8B&border_radius=10">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Jaiir0/Nonce_validation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaiir0&repo=Nonce_validation&title_color=008B8B&text_color=c9d1d9&icon_color=008B8B&bg_color=0d1117&border_color=008B8B&border_radius=10">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h4 align="center">
+  <a href="https://github.com/Jaiir0?tab=repositories" title="Show Repositories">🔎 Ver mais repositórios 🔍</a>
+</h4>
 
 <div align="center"> 
   <br/> 
@@ -42,4 +76,4 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8BF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
